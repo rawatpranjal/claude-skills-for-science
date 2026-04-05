@@ -20,49 +20,25 @@ Initial release covering 15 subfields:
 
 </details>
 
-## Ecosystem Maturity
+## Quick Links
 
-| Subfield | Expert Skills | Expert MCP Servers | Maturity |
-|----------|--------------|-------------------|----------|
-| **MLOps** | Orchestra (W&B, MLflow, TB) | W&B, MLflow, Dagster, Prefect, Feast | Excellent |
-| **Optimization** | pymoo skill | mcp-solver (150 stars), USolver, IBM CP-SAT, HiGHS, mcp-optimizer | Strong |
-| **Geospatial** | K-Dense GeoMaster | QGIS (540 stars), PostGIS Yukon, H3/bbox | Strong |
-| **Experimentation** | A/B Test Setup | GrowthBook, Optimizely, PostHog | Strong |
-| **Bayesian** | PyMC Labs, Stan skill | bayes-msp | Emerging |
-| **Causal inference** | awesome-econ-ai-stuff (LSE) | DoWhy MCP v2 (42 tools), causalMCP | Emerging |
-| **Time series** | K-Dense TimesFM, aeon | Nixtla, Chronulus | Fragmented |
-| **Survival analysis** | tidyrmodelling (R) | None dedicated | Skill-only |
-| **Classical ML** | K-Dense scikit-learn | Optuna (official), sklearn MCP | Adequate |
-| **Deep learning** | HF skills (official) | HF MCP, W&B, MLflow | Adequate |
-| **NLP** | Orchestra RAG skills | HuggingFace MCP, Jama NLP | Thin |
-| **Recommender systems** | None | None | Complete gap |
-
----
-
-## Contents
-
-**Applied Science**
-- [Experimentation & A/B Testing](#experimentation--ab-testing)
-- [Causal Inference](#causal-inference)
-- [Bayesian Modeling](#bayesian-modeling)
-- [Time Series & Forecasting](#time-series--forecasting)
-- [Classical ML](#classical-ml)
-- [Deep Learning & Model Hubs](#deep-learning--model-hubs)
-- [NLP & Text Analytics](#nlp--text-analytics)
-- [Recommender Systems](#recommender-systems)
-- [Survival Analysis](#survival-analysis)
-- [Optimization & OR](#optimization--or)
-- [Geospatial](#geospatial)
-- [MLOps & Experiment Tracking](#mlops--experiment-tracking)
-
-**Infrastructure**
-- [Econometrics, Economic Data & Academic Research](#econometrics-economic-data--academic-research)
-- [Data Infrastructure](#data-infrastructure)
-
-**Meta**
-- [Source Repositories & Discovery](#source-repositories--discovery)
-- [Learning Resources](#learning-resources)
-- [Contributing](#contributing)
+| Subfield | Top Skills | Top MCP Servers | Maturity |
+|----------|-----------|----------------|----------|
+| [**Experimentation**](#experimentation--ab-testing) | A/B Test Setup | GrowthBook, Optimizely, PostHog | Strong |
+| [**Causal Inference**](#causal-inference) | awesome-econ-ai-stuff (LSE) | DoWhy MCP v2 (42 tools), causalMCP | Emerging |
+| [**Bayesian**](#bayesian-modeling) | PyMC Labs, Stan skill | bayes-msp | Emerging |
+| [**Time Series**](#time-series--forecasting) | K-Dense TimesFM, aeon | Nixtla, Chronulus | Fragmented |
+| [**Classical ML**](#classical-ml) | K-Dense scikit-learn | Optuna (official), sklearn MCP | Adequate |
+| [**Deep Learning**](#deep-learning--model-hubs) | HF skills (official) | HF MCP, W&B, MLflow | Adequate |
+| [**NLP**](#nlp--text-analytics) | Orchestra RAG skills | HuggingFace MCP, Jama NLP | Thin |
+| [**Recommender Systems**](#recommender-systems) | None | None | Complete gap |
+| [**Survival Analysis**](#survival-analysis) | tidyrmodelling (R) | None dedicated | Skill-only |
+| [**Optimization**](#optimization--or) | pymoo skill | mcp-solver (150 stars), USolver, IBM CP-SAT | Strong |
+| [**Geospatial**](#geospatial) | K-Dense GeoMaster | QGIS (540 stars), PostGIS Yukon, H3/bbox | Strong |
+| [**MLOps**](#mlops--experiment-tracking) | Orchestra (W&B, MLflow, TB) | W&B, MLflow, Dagster, Prefect, Feast | Excellent |
+| [**Econometrics & Academic**](#econometrics-economic-data--academic-research) | Mele (LSE), Sant'Anna, Blattman | MCP-Stata, RMCP (198 stars), FRED, arXiv | Strong |
+| [**Data Infrastructure**](#data-infrastructure) | Anthropic Data Plugin, DuckDB | Snowflake, BigQuery, dbt, Jupyter, Looker | Excellent |
+| [**Repos & Discovery**](#source-repositories--discovery) | K-Dense (7.8K stars), Orchestra (6.1K stars) | PulseMCP, Smithery, MCP Registry | — |
 
 ---
 
