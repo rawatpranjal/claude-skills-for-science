@@ -1,4 +1,4 @@
-# Expert Claude Code Skills and MCP Servers for Applied Scientists
+# Claude Skills and MCPs for Applied and Data Science
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](CONTRIBUTING.md)
